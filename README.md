@@ -1,4 +1,4 @@
-- <h1 align="center">Hi 👋, I'm @Prutwi17</h1>
+- <h1 align="center">Hi 👋, I'm Pruthibiraj Swain</h1>
 <h3 align="center">Aspiring Machine Learning Engineer | Python developer </h3>
 
 ---
@@ -26,7 +26,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-3670A0?style=for-the-badge&logo=Java&logoColor=white)
 
-
+---
 ## 🚀 My Top Projects
 
 | Project | Description | Tech Stack |
@@ -36,7 +36,12 @@
 | [📊 Emotion Detection](https://github.com/Prutwi17/emotion-detector-naivebayes) | ML-based emotion classifier using text input | Scikit-learn, Naive Bayes |
 
 ---
+## 📫 Connect With Me
 
+<p align="left">
+  <a href="www.linkedin.com/in/pruthibirajswain" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:prutwiraj314@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
 
 
 
