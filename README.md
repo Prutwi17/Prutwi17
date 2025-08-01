@@ -1,39 +1,55 @@
-- <h1 align="center">Hi 👋, I'm Pruthibiraj Swain</h1>
-<h3 align="center">Aspiring Machine Learning Engineer | Python developer </h3>
+<h1 align="center">Hi 👋, I'm Pruthibiraj Swain</h1>
+<h3 align="center">Java Developer | Aspiring Backend Engineer</h3>
 
 ---
 
-- 🔭 I’m currently working on: Diabetes Prediction Using ML & Random Forest Algorithm
-- 👀 I’m interested in Machine Learning, Web Development, and building intelligent systems 
-- 🌱 I’m currently learning Deep Learning and Data Analysis with Python
-- 💞️ I’m looking to collaborate on open-source AI/ML projects and impactful web apps
-- 💬 Ask me about: Machine Learning, Python, Flask, Git/GitHub
-- 📫 Reach me at: prutwiraj314@gmail.com | [LinkedIn](www.linkedin.com/in/pruthibirajswain)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I build projects that solve real-life problems just for fun!
+- 🔭 I’m currently working on: Employee Management System (Java + Spring Boot + React)  
+- 💼 Actively looking for roles as: Java Developer | Python Developer (Backend & ML)   
+- 👀 I’m interested in Java Development, Spring Boot, REST APIs, Machine Learning, and building intelligent systems 
+- 🌱 I’m currently learning Advanced Spring Boot, Microservices, and Hibernate  
+- 💞️ I’m looking to collaborate on Java-based backend projects and scalable web applications  
+- 💬 Ask me about: Java, Spring Boot, REST API Development, MySQL, Git/GitHub  
+- 📫 Reach me at: prutwiraj314@gmail.com | [LinkedIn](https://www.linkedin.com/in/pruthibirajswain)  
+- 😄 Pronouns: He/Him  
+- ⚡ Fun fact: I love turning complex problems into clean, working code!  
 
 ---
 
 ## 🛠️ Tech Stack
 
+## 💻 Tech Stack
+
+### Backend & Programming
+![Core Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+### Machine Learning & Data
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Tools & Version Control
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Java](https://img.shields.io/badge/Java-3670A0?style=for-the-badge&logo=Java&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
 
 ---
 ## 🚀 My Top Projects
 
+## 🚀 Projects
+
 | Project | Description | Tech Stack |
-|--------|-------------|------------|
-| [🩺 Diabetes Prediction](https://github.com/Prutwi17/diabetes-prediction-ml) | Predicts diabetes using ML and gives health recommendations | Python, Scikit-learn, Flask |
-| [🤖 Personal Chatbot](https://github.com/Prutwi17/personal-chatbot-pytorch) | Chatbot with deep learning & encoder-decoder model | Python, NLP, Terminal UI |
-| [📊 Emotion Detection](https://github.com/Prutwi17/emotion-detector-naivebayes) | ML-based emotion classifier using text input | Scikit-learn, Naive Bayes |
+|---------|-------------|------------|
+| [🩺 Diabetes Prediction](https://github.com/Prutwi17/diabetes-prediction-ml) | Machine learning model to predict diabetes and provide health recommendations | Python, Scikit-learn, Flask |
+| [🏥 Hospital Management System](https://github.com/Prutwi17/hospital-management-system) | Desktop application to manage patients, doctors, appointments with database-driven operations | Java, JDBC, MySQL |
+| [🤖 Personal Chatbot](https://github.com/Prutwi17/personal-chatbot-pytorch) | Deep learning-based chatbot using encoder-decoder model for natural language conversations | Python, PyTorch, NLP |
+| [📊 Emotion Detection](https://github.com/Prutwi17/emotion-detector-naivebayes) | Text-based emotion classification system using Naive Bayes | Python, Scikit-learn, NLP |
 
 ---
 ## 📫 Connect With Me
