@@ -3,7 +3,7 @@
 
 ---
 
-- 🔭 I’m currently working on: Employee Management System (Java + Spring Boot + React)  
+- 🔭 I’m currently working on: Smart Hospital Queue & Emergency Prioritization System – a real-time healthcare solution for patient queue management, emergency triage, and appointment scheduling using Java, Spring Boot, MySQL, HTML, CSS, and JavaScript.  
 - 💼 Actively looking for roles as: Java Developer | Python Developer (Backend & ML)   
 - 👀 I’m interested in Java Development, Spring Boot, REST APIs, Machine Learning, and building intelligent systems 
 - 🌱 I’m currently learning Advanced Spring Boot, Microservices, and Hibernate  
@@ -46,6 +46,7 @@
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
+| [🎓 Student Management System](https://github.com/Prutwi17/student-management-system) | Full-stack web application for managing students and teachers with CRUD operations and database integration | Java, Spring Boot, Hibernate, MySQL, HTML, CSS, JavaScript |
 | [🩺 Diabetes Prediction](https://github.com/Prutwi17/diabetes-prediction-ml) | Machine learning model to predict diabetes and provide health recommendations | Python, Scikit-learn, Flask |
 | [🏥 Hospital Management System](https://github.com/Prutwi17/hospital-management-system) | Desktop application to manage patients, doctors, appointments with database-driven operations | Java, JDBC, MySQL |
 | [🤖 Personal Chatbot](https://github.com/Prutwi17/personal-chatbot-pytorch) | Deep learning-based chatbot using encoder-decoder model for natural language conversations | Python, PyTorch, NLP |
