@@ -2,7 +2,7 @@
 
 ### 🚀 Java Full Stack Developer | Backend Developer | AI/ML Enthusiast
 
-* 🔭 **Currently working on:** **UltronAI** – an intelligent AI-powered system focused on building smart, automated, and interactive solutions using modern backend, AI, and web technologies.
+* 🔭 **Currently working on:** **MoneyFlow** – a digital banking and loan application system focused on secure banking services, loan management, financial operations, and modern backend technologies.
 * 💼 **Actively looking for roles as:** Java Developer | Java Full Stack Developer | Python Developer | Backend Developer
 * 👀 **Interested in:** Java Development, Spring Boot, REST APIs, Microservices, AI/ML, Backend Engineering, and building intelligent systems
 * 🌱 **Currently learning:** Advanced Spring Boot, Microservices, Hibernate, System Design, AI/ML, and scalable backend architecture
