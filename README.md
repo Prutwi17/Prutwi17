@@ -1,16 +1,16 @@
 # 👋 Hi, I'm Pruthibiraj Swain
 
-### 🚀 Java Full Stack Developer | Backend Developer | AI/ML Enthusiast
+### 🚀 Java Full Stack Developer | Backend Developer
 
-* 🔭 **Currently working on:** **MoneyFlow** – a digital banking and loan application system focused on secure banking services, loan management, financial operations, and modern backend technologies.
-* 💼 **Actively looking for roles as:** Java Developer | Java Full Stack Developer | Python Developer | Backend Developer
-* 👀 **Interested in:** Java Development, Spring Boot, REST APIs, Microservices, AI/ML, Backend Engineering, and building intelligent systems
-* 🌱 **Currently learning:** Advanced Spring Boot, Microservices, Hibernate, System Design, AI/ML, and scalable backend architecture
-* 💞️ **Looking to collaborate on:** Java/Spring Boot projects, AI-powered applications, scalable web applications, and open-source projects
-* 💬 **Ask me about:** Java, Spring Boot, REST APIs, Hibernate, MySQL, React, Python, Machine Learning, Git/GitHub
-* 📫 **Reach me at:** [prutwiraj314@gmail.com](mailto:prutwiraj314@gmail.com) | [LinkedIn](https://www.linkedin.com/in/pruthibirajswain)
-* 😄 **Pronouns:** He/Him
-* ⚡ **Fun fact:** I love turning complex problems into clean, scalable, and working code!
+- 🔭 **Currently working on:** **NodeX – HRMS Application**, a full-stack Human Resource Management System built with Java, Spring Boot, React, and MySQL.
+- 💼 **Actively looking for roles as:** Java Developer | Java Full Stack Developer | Python Developer | Backend Developer
+- 👀 **Interested in:** Java Development, Spring Boot, REST APIs, Microservices, AI/ML, Backend Engineering, and building intelligent systems
+- 🌱 **Currently learning:** Advanced Spring Boot, Microservices, Hibernate, System Design, AI/ML, and scalable backend architecture
+- 💞️ **Looking to collaborate on:** Java/Spring Boot projects, AI-powered applications, scalable web applications, and open-source projects
+- 💬 **Ask me about:** Java, Spring Boot, REST APIs, Hibernate, MySQL, React, Python, Machine Learning, Git/GitHub
+- 📫 **Reach me at:** [prutwiraj314@gmail.com](mailto:prutwiraj314@gmail.com) | [LinkedIn](https://www.linkedin.com/in/pruthibirajswain)
+- 😄 **Pronouns:** He/Him
+- ⚡ **Fun fact:** I love turning complex problems into clean, scalable, and working code!
 
 ---
 
@@ -84,33 +84,51 @@
 
 # 🚀 Featured Projects
 
-| Project                                                       | Description                                                                                                                                                   | Tech Stack                                                                                    |
-| ------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| 🤖 **UltronAI**                                               | AI-powered intelligent application focused on automation, intelligent interactions, and modern software capabilities. **Currently under active development.** | Java, Spring Boot, Python, AI/ML, REST APIs, React, MySQL                                     |
-| 🛒 **SportX – E-Commerce Web Application**                    | Full-stack sports e-commerce platform for browsing, searching, categorizing, and managing sports products with user and admin functionality.                  | Java, Spring Boot, Spring Security, JWT, Hibernate, MySQL, React, TypeScript, Vite, REST APIs |
-| 🏥 **Smart Hospital Queue & Emergency Prioritization System** | Real-time healthcare solution for patient queue management, emergency prioritization, appointment scheduling, and role-based hospital management.             | Java, Spring Boot, Spring Security, JWT, Hibernate, MySQL, React, WebSocket, REST APIs        |
-| 🎓 **Student Management System**                              | Full-stack web application for managing students and teachers with CRUD operations and database integration.                                                  | Java, Spring Boot, Hibernate, MySQL, HTML, CSS, JavaScript                                    |
-| 🩺 **Diabetes Prediction System**                             | Machine learning system that predicts diabetes risk and provides health-related recommendations based on patient data.                                        | Python, Scikit-learn, Random Forest, Flask                                                    |
-| 🏥 **Hospital Management System**                             | Database-driven desktop application for managing patients, doctors, appointments, and hospital operations.                                                    | Java, JDBC, MySQL                                                                             |
-| 🤖 **Personal Chatbot**                                       | Deep learning-based chatbot designed for natural language conversations using an encoder-decoder architecture.                                                | Python, PyTorch, NLP, Deep Learning                                                           |
-| 📊 **Emotion Detection**                                      | Text classification system that identifies emotions from textual input using machine learning techniques.                                                     | Python, Scikit-learn, Naive Bayes, NLP                                                        |
+| Project | Description | Tech Stack |
+|---|---|---|
+| 🧑‍💼 **NodeX – HRMS Application** | Full-stack Human Resource Management System designed to manage employees, HR operations, roles, permissions, and organizational workflows. **Currently under active development.** | Java, Spring Boot, Spring Security, JWT, Hibernate, MySQL, React, TypeScript, REST APIs |
+| 🛒 **SportX – E-Commerce Web Application** | Full-stack sports e-commerce platform for browsing, searching, categorizing, purchasing, and managing sports products with user and admin functionality. | Java, Spring Boot, Spring Security, JWT, Hibernate, MySQL, React, TypeScript, Vite, REST APIs |
+| 🪖 **Military Asset Management System** | Full-stack system for managing military assets, tracking asset information, and providing role-based management capabilities. | Java, Spring Boot, Spring Security, JWT, Hibernate, MySQL, React |
+| 🤖 **UltronAI** | AI-powered intelligent application focused on automation, intelligent interactions, and modern software capabilities. **Currently under active development.** | Java, Spring Boot, Python, AI/ML, REST APIs, React, MySQL |
+| 🏥 **Smart Hospital Queue & Emergency Prioritization System** | Real-time healthcare solution for patient queue management, emergency prioritization, appointment scheduling, and role-based hospital management. | Java, Spring Boot, Spring Security, JWT, Hibernate, MySQL, React, WebSocket, REST APIs |
+| 🎓 **Student Management System** | Full-stack web application for managing students and teachers with CRUD operations and database integration. | Java, Spring Boot, Hibernate, MySQL, HTML, CSS, JavaScript |
+| 🩺 **Diabetes Prediction System** | Machine learning system that predicts diabetes risk and provides health-related recommendations based on patient data. | Python, Scikit-learn, Random Forest, Flask |
+| 🏥 **Hospital Management System** | Database-driven desktop application for managing patients, doctors, appointments, and hospital operations. | Java, JDBC, MySQL |
+| 🤖 **Personal Chatbot** | Deep learning-based chatbot designed for natural language conversations using an encoder-decoder architecture. | Python, PyTorch, NLP, Deep Learning |
+| 📊 **Emotion Detection** | Text classification system that identifies emotions from textual input using machine learning techniques. | Python, Scikit-learn, Naive Bayes, NLP |
 
 ---
 
 # 📌 Project Highlights
 
-### 🤖 UltronAI
+### 🧑‍💼 NodeX – HRMS
 
-Currently building an intelligent AI-focused application combining backend engineering with AI capabilities.
+A full-stack Human Resource Management System currently under active development.
+
+**Key technologies:**
+
+- Java
+- Spring Boot
+- Spring Security
+- JWT Authentication
+- Hibernate / JPA
+- MySQL
+- REST APIs
+- React
+- TypeScript
 
 **Focus areas:**
 
-* AI-powered interactions
-* Intelligent automation
-* Backend APIs
-* Modern web application architecture
-* Database integration
-* Scalable application design
+- Employee Management
+- Role-Based Access Control
+- HR Management
+- Organizational Workflows
+- Authentication & Authorization
+- Employee Records
+- Dashboard & Management Modules
+- Secure REST APIs
+
+---
 
 ### 🛒 SportX E-Commerce
 
@@ -118,39 +136,43 @@ A complete sports e-commerce web application built using a modern **Java Full St
 
 **Key technologies:**
 
-* Spring Boot
-* Spring Security & JWT
-* Hibernate / JPA
-* MySQL
-* REST APIs
-* React
-* TypeScript
-* Vite
-* Git & GitHub
-
-### 🏥 Smart Hospital Queue System
-
-A real-time healthcare management platform designed to improve hospital queue management and emergency prioritization.
-
-**Key features:**
-
-* Patient registration
-* Appointment scheduling
-* Queue tracking
-* Emergency prioritization
-* Doctor management
-* Role-based access control
-* JWT authentication
-* Real-time WebSocket communication
-* Admin dashboard
+- Spring Boot
+- Spring Security & JWT
+- Hibernate / JPA
+- MySQL
+- REST APIs
+- React
+- TypeScript
+- Vite
+- Git & GitHub
 
 ---
 
-# 📊 GitHub Stats
+### 🪖 Military Asset Management System
+
+A full-stack asset management platform designed for managing and tracking military assets.
+
+**Key technologies:**
+
+- Java
+- Spring Boot
+- Spring Security
+- JWT
+- Hibernate / JPA
+- MySQL
+- React
+- REST APIs
+
+---
+
+# 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prutwi17&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prutwi17&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Prutwi17&show_icons=true&hide_title=true&hide_rank=true&include_all_commits=true&count_private=true&hide=stars,issues,contribs&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prutwi17&theme=tokyonight&hide_border=true&hide_longest_streak=true" />
 </p>
 
 ---
@@ -161,9 +183,11 @@ A real-time healthcare management platform designed to improve hospital queue ma
   <a href="mailto:prutwiraj314@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+
   <a href="https://www.linkedin.com/in/pruthibirajswain">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+
   <a href="https://github.com/Prutwi17">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
